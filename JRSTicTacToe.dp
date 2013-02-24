@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\James\Projects\GitHub\TicTacToe-Pascal\JRSTicTacToe.dp
+Name=JRSs Tic-Tac-Toe
+MainUnit=C:\Users\James\Projects\GitHub\TicTacToe-Pascal\main.pas
+UnitCount=1
+ResFiles=C:\Users\James\Projects\GitHub\TicTacToe-Pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Users\James\Projects\GitHub\TicTacToe-Pascal\Mainicon.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Users\James\Projects\GitHub\TicTacToe-Pascal\main.pas
+FileTime=1113098777
